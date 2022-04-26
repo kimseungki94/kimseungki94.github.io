@@ -59,32 +59,21 @@ content:
         quote: >
           효성그룹 전자금융 계열사로 CMS서비스를 운영하는 기업
         description: | # this will include new lines to allow paragraphs
-            - 사내 프로젝트 개발 및 효성CMS 차세대프로젝트 참여<br>
+            - 사내 프로젝트 개발 및 효성CMS 차세대프로젝트 참여
             - Spring Boot, VueJS, Oracle 환경에서 개발 경험
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 명지대학교
-        caption: 2017.03 - 2020.02
-        sub_title: 컴퓨터공학과
+        title: 삼성청년소프트웨어아카데미(SSAFY)
+        caption: 2021.01 - 2021.12
+        sub_title: 3기 교육생 참여
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          삼성전자 주관 소프트웨어 개발자 양성 교육
         description: | # this will include new lines to allow paragraphs
-          컴퓨터공학 지식 습득 및 멋쟁이사자처럼 동아리 참여
-          
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+          - 개발자로 실무적 역량 습득을 위해 참여
+          - 교육생들과 웹 기반 다수 프로젝트 개발 경험
 
 # Footer
 footer_show_references: true
