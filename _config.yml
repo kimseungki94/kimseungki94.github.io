@@ -60,7 +60,7 @@ content:
           효성그룹 전자금융 계열사로 CMS서비스를 운영하는 기업
         description: | # this will include new lines to allow paragraphs
             - 사내 프로젝트 개발 및 효성CMS 차세대프로젝트 참여
-            - Spring Boot, VueJS, Oracle 환경에서 개발 경험
+            - Spring Boot, JPA, Oracle 환경에서 개발 경험
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
