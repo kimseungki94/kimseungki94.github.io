@@ -25,10 +25,10 @@ github_username:  kimseungki94
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -57,9 +57,10 @@ content:
         sub_title: 풀스택 개발자
         caption: 2021.01 - 현재
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          효성그룹 전자금융 계열사로 CMS서비스를 운영하는 기업
         description: | # this will include new lines to allow paragraphs
-            차세대프로젝트 참여
+            - 사내 프로젝트 개발 및 효성CMS 차세대프로젝트 참여<br>
+            - Spring Boot, VueJS, Oracle 환경에서 개발 경험
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
