@@ -41,7 +41,7 @@ github_username:  kimseungki94
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myProfile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Java & Spring / JavaScript & VueJS 기반의 2년차 백엔드 개발자로 자동결제 서비스 API 개발 및 페이지 개발 등을 해왔습니다.<br>
   항상 <mark>유지보수</mark>와 <mark>가독성</mark>이 높은 코드를 작성하는 개발자가 되기 위해 노력합니다.
