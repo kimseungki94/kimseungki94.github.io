@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김승기
-title: Java 백엔드 개발자
+title: Java & Spring 백엔드 개발자
 email: skkim0832@naver.com
 website: https://kimseungki94.tistory.com/
 
@@ -15,18 +15,13 @@ website: https://kimseungki94.tistory.com/
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  kimseungki94
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -48,8 +43,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring / JavaScript & VueJS 기반의 2년차 백엔드 개발자로 자동결제 서비스 API 개발 및 페이지 개발 등을 해왔습니다.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Java & Spring / JavaScript & VueJS 기반의 2년차 백엔드 개발자로 자동결제 서비스 API 개발 및 페이지 개발 등을 해왔습니다.<br>
+  <mark>유지보수</mark>와 <mark>가독성</mark>이 높은 코드를 작성하는 개발자가 되기 위해 항상 노력합니다.
 
 content:
   - title: Projects # Title for the section
