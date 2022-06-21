@@ -9,7 +9,7 @@ version: 2
 name: 김승기
 title: Java & Spring 백엔드 개발자
 email: skkim0832@naver.com
-website: https://kimseungki94.tistory.com/
+website: https://velog.io/@kimseungki94
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -55,7 +55,7 @@ content:
         link: https://www.hyosungfms.com/
         # link_text: boringcompany.com
         sub_title: 웹 개발자
-        caption: 2021.01 - 현재
+        caption: 2021.01 - 2022.05
         quote: >
           효성그룹 전자금융 계열사로 CMS서비스를 운영하는 기업
         description: | # this will include new lines to allow paragraphs
